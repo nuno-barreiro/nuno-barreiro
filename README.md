@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I'm Nuno.
 
+I'm a software developer and architect, based in 🇵🇹. 
+
+- 🌐 https://nunobarreiro.com
+- 🐤 https://twitter.com/_nunobarreiro
+- 💼 https://www.linkedin.com/in/nunobarreiro/
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuno-barreiro&show_icons=true&hide_border=true&custom_title=Nuno%27s%20Stats" alt="nuno-barreiro" />
 <!--
-**nuno-barreiro/nuno-barreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno-barreiro&layout=compact&hide=html" alt="nuno-barreiro" />
 -->
