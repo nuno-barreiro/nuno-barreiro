@@ -1,0 +1,31 @@
+name: Update readme file
+on:
+  workflow_dispatch:
+  schedule:
+    # Weekld on Sunday midnight
+    - cron: 0 0 * * 0
+
+jobs:
+  update-medium:
+    name: Update Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          branch: main
+          feed-url: https://medium.com/feed/@nunobarreiro
+          readme-section: mediumfeed
+          max: 5 # max number of items (default 5)
+          template: "- **[{{ title }}]({{ link }})**\n"
+
+  update-blog:
+    name: Update Blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          branch: main
+          feed-url: https://www.nunobarreiro.com/feed.rss
+          readme-section: blogfeed
+          max: 5 # max number of items (default 5)
+          template: "- **[{{ title }}]({{ link }})**\n"
