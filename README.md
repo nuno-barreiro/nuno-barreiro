@@ -28,6 +28,11 @@ I'm a software developer and architect, based in <img src="https://github.github
 
 ### 📚 Latest Medium Stories
 <!--START_SECTION:mediumfeed-->
+- **[Twenty-one years of agile, and now what?](https:&#x2F;&#x2F;medium.com&#x2F;@nunobarreiro&#x2F;twenty-one-years-of-agile-and-now-what-c35a5ed550bf?source&#x3D;rss-a43e7ffb7972------2)**
+- **[Improving companywide usage of Slack](https:&#x2F;&#x2F;medium.com&#x2F;@nunobarreiro&#x2F;improving-companywide-usage-of-slack-bb6bf58719e5?source&#x3D;rss-a43e7ffb7972------2)**
+- **[Scrum’s Product Owners are leaders and value deliverers, not your boss](https:&#x2F;&#x2F;medium.com&#x2F;@nunobarreiro&#x2F;scrums-product-owners-are-leaders-and-value-deliverers-not-your-boss-9e9a89deb98c?source&#x3D;rss-a43e7ffb7972------2)**
+- **[Enable .NET Core 3.0 in Visual Studio 2019 RC](https:&#x2F;&#x2F;medium.com&#x2F;@nunobarreiro&#x2F;enable-net-core-3-0-in-visual-studio-2019-rc-c8eb8d0b708c?source&#x3D;rss-a43e7ffb7972------2)**
+- **[Web Assembly with C# II — Blazor Components](https:&#x2F;&#x2F;medium.com&#x2F;@nunobarreiro&#x2F;web-assembly-with-c-ii-blazor-components-4dabcf40e560?source&#x3D;rss-a43e7ffb7972------2)**
 <!--END_SECTION:mediumfeed-->
 
 ---
