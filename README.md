@@ -17,6 +17,11 @@ I'm a software developer and architect, based in <img src="https://github.github
 
 ### 📕 Latest Blog Posts
 <!--START_SECTION:blogfeed-->
+- **[Cleanup Azure DevOps pipelines retained by releases](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;cleanup-devops-pipelines-retained)**
+- **[Delete Azure DevOps project wiki using Az CLI](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;delete-azure-devops-project-wiki-with-az-cli)**
+- **[Updating NPM when using the NVM for Windows](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;updating-npm-with-nvm-for-windows)**
+- **[Windows10 store not launching](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;win10-store-not-launching)**
+- **[Improving companywide usage of Slack](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;improving-companywide-usage-of-slack)**
 <!--END_SECTION:blogfeed-->
 
 ---
