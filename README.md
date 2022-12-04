@@ -10,7 +10,7 @@ I'm a software developer and architect, based in <img src="https://github.github
 
 ### ⛓️ Let's connect
 - 🌐 https://nunobarreiro.com
-- 🐤 https://twitter.com/_nunobarreiro
+- 🐘 https://hachyderm.io/@nunobarreiro
 - 💼 https://www.linkedin.com/in/nunobarreiro/
 
 ---
