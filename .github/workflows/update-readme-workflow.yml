@@ -25,7 +25,7 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           branch: main
-          feed-url: https://www.nunobarreiro.com/feed.rss
+          feed-url: https://nunobarreiro.com/feed.xml
           readme-section: blogfeed
           max: 5 # max number of items (default 5)
           template: "- **[{{ title }}]({{ link }})**\n"
