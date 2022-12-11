@@ -17,11 +17,11 @@ I'm a software developer and architect, based in <img src="https://github.github
 
 ### 📕 Latest Blog Posts
 <!--START_SECTION:blogfeed-->
-- **[Cleanup Azure DevOps pipelines retained by releases](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;cleanup-devops-pipelines-retained)**
-- **[Delete Azure DevOps project wiki using Az CLI](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;delete-azure-devops-project-wiki-with-az-cli)**
-- **[Updating NPM when using the NVM for Windows](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;updating-npm-with-nvm-for-windows)**
-- **[Windows10 store not launching](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;win10-store-not-launching)**
-- **[Improving companywide usage of Slack](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;posts&#x2F;improving-companywide-usage-of-slack)**
+- **[Cleanup Devops Pipelines Retained](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2021&#x2F;12&#x2F;22&#x2F;cleanup-devops-pipelines-retained.html)**
+- **[Delete Azure Devops Project Wiki With Az Cli](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2021&#x2F;12&#x2F;09&#x2F;delete-azure-devops-project-wiki-with-az-cli.html)**
+- **[Updating Npm With Nvm For Windows](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2021&#x2F;03&#x2F;23&#x2F;updating-npm-with-nvm-for-windows.html)**
+- **[Win10 Store Not Launching](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2020&#x2F;03&#x2F;17&#x2F;win10-store-not-launching.html)**
+- **[Improving Companywide Usage Of Slack](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2020&#x2F;03&#x2F;15&#x2F;improving-companywide-usage-of-slack.html)**
 <!--END_SECTION:blogfeed-->
 
 ---
