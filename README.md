@@ -17,11 +17,11 @@ I'm a software developer and architect, based in <img src="https://github.github
 
 ### 📕 Latest Blog Posts
 <!--START_SECTION:blogfeed-->
+- **[Solving nVidia Drivers Issues on Ubuntu](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2023&#x2F;08&#x2F;10&#x2F;solving-nvidia-drivers-issues-on-ubuntu.html)**
 - **[2023 - The comeback](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2023&#x2F;06&#x2F;15&#x2F;2023_the_comeback.html)**
 - **[Cleanup Devops Pipelines Retained](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2021&#x2F;12&#x2F;22&#x2F;cleanup-devops-pipelines-retained.html)**
 - **[Delete Azure Devops Project Wiki With Az Cli](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2021&#x2F;12&#x2F;09&#x2F;delete-azure-devops-project-wiki-with-az-cli.html)**
 - **[Updating Npm With Nvm For Windows](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2021&#x2F;03&#x2F;23&#x2F;updating-npm-with-nvm-for-windows.html)**
-- **[Win10 Store Not Launching](https:&#x2F;&#x2F;nunobarreiro.com&#x2F;2020&#x2F;03&#x2F;17&#x2F;win10-store-not-launching.html)**
 <!--END_SECTION:blogfeed-->
 
 ---
