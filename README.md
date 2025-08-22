@@ -9,7 +9,7 @@ I'm a software developer and architect, based in <img src="https://github.github
 <br />
 
 ### ⛓️ Let's connect
-- 🌐 https://nuno-barreiro.github.io
+- 🌐 https://kernelofthought.xyz/
 - 🐘 https://hachyderm.io/@nuno_barreiro
 - 💼 https://www.linkedin.com/in/nunobarreiro/
 
